@@ -1,7 +1,11 @@
 # Data-structure-FastNuces 
 
 
-<img src="unnamed.jpg" alt="FAST NUCES">
+<br />
+<p align="center">
+    <img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fpwr.nu.edu.pk%2F&psig=AOvVaw296Flxr2ePVQtcf1U6jDcn&ust=1614695085383000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIigq4mmj-8CFQAAAAAdAAAAABAD.png" alt="Logo" width="140" height="220">
+  </a>
+</p>
 
 
 
