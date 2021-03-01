@@ -43,7 +43,9 @@
 
 ## Usage
 
-it improves your the coding skills.Many new libraries have used .It Helps in deep understanding of data types .It also includes assignemnts of Data structures
+it improves your the coding skills.Many new libraries have used .It Helps in deep understanding of data types .It also includes assignemnts of Data structures 
+-->In assignment folder there is a pdf of assignment and cpp of its solution
+-->The folders of different data structures have implementation as well as important codes.
 
 
 
