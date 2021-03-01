@@ -3,7 +3,7 @@
 
 <br />
 <p align="center">
-    <img src="http://nu.edu.pk/Content/images/NU-logo.jpg" alt="Logo" width="800" height="400">
+    <img src="http://nu.edu.pk/Content/images/NU-logo.jpg" alt="Logo" width="800" height="200">
   </a>
 </p>
 
