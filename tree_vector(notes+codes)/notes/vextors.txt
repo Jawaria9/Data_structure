@@ -1,0 +1,22 @@
+vectors are inbuilt dynamic array(dynamic array class)
+
+
+1)no need to give size
+2)can insert unlimited elements(double the size when gets filled)
+3)there are two ways to create vector 
+-->static allocation(deleted automatically)
+-->dynamic allocation(we have to delete it ourself)
+4)we can access the elements using square brackets ie;v[0]
+5)we can change the element in vector using square bracket ie; v[1]=100;
+6)we cannot push the element using square brackets because size will not increase
+7)alternate of square brackets is at(index) function but in this if we try to acess the element from the invalid index we get error instead of printing grabage value like in case of square brackets
+8)size function gives how many elements are present in vector
+
+functions:
+
+-->push_back() it pushes the element at the last
+-->at(index) to access element
+-->pop_back() it will pop out the last element
+-->capacity() gives how much space is there
+-->size()
+ 

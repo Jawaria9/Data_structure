@@ -1,0 +1,7 @@
+BST:
+-->everything in nodes left  subtree is less than nodes data
+-->everything in nodes right subtree is greater than nodes data
+everynode of the bst follow theser above two properties
+-->leaf nodes are always bst
+
+-->inorder traversal of bst is sorted

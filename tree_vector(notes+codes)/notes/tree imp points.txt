@@ -1,0 +1,6 @@
+-->depth is same as level
+-->height is no of levels
+-->no of nodes at k level and nof nodes at k depth
+-->whenever we delete node of treenode type distructor of treenodes class is called
+-->post order is printing children first then root
+-->pre order is printing root first and then children

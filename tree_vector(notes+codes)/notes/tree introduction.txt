@@ -1,0 +1,15 @@
+node store the address of many nodes unlike LL
+tree are used to represent filesystem or organization
+instead of head there is root through which we can access the whole tree
+in tree we have parent child relationship
+leaf node are those having no childs
+sibling are those whose parent is same
+root is, who have no parent
+ancester means parent,grand parents.....
+decendent means child,grand child......
+
+in treenode class:
+-->we cannot use array because it waste memory
+-->we cannot use linklist because it has access issue take o(n) time
+
+

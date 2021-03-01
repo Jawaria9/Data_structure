@@ -1,0 +1,9 @@
+rules:
+
+-->in recursion we use the recursion and solve the big problem like
+first we have base case
+then we have hypothesis induction which is recursion
+then we use that hypothesis induction(recursion)in the induction step where the all logic is made
+
+1)we can traverse the array from end by soling first n-1 amd moving toward 0 the start
+2)we can traverse the array from start either using i varaible or by adding 1 in the addreess and decreasing size 

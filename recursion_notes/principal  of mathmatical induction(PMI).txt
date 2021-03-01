@@ -1,0 +1,39 @@
+principal of mathmatical induction(PMI):
+
+-->it is used to proof fact
+for example f(n) is true for all natural numbers
+
+1)base case:
+-->it starts with very small number
+f(0) is true
+f(1) is true
+
+2)induction hypothesis:
+-->we assumes in this step
+f(k) is true
+
+3)induction step:
+-->using step 2 we prrof step 3
+f(k+1) is true
+
+for example:
+En=n(n+1)/2
+
+base case:
+f(o)=0;
+f(1)=1
+
+induction hypothesis:
+Ek=k(k+1)/2
+
+induction step:
+E(k+1)=(k+1)(k+2)/2
+
+Ek+(k+1)=k(K+1)/2+(k+1)=K+1/2[2+k]
+
+==========================================
+when coding apply PMI but when dry run think of recursion steps
+-->inside base case return is mendatory otherwise infinite loop will be generated
+
+
+

@@ -1,0 +1,12 @@
+//we will use recursion when a problem depends upon a  problem of the same nature with smaller input size
+//recursion is calling the function itself 
+//we use recursion when solution of the problem depends upon the solution of smaller problem 
+//ie;
+//n!=n*(n-1)!
+//fact(n)=n*fact(n-1)
+//we can convert bigger problem into smaller and smaller problem 
+//in recursion we call the same function with smaller input size
+//with the ouput of the smaller problem we can calculate the output of our problem
+//call stack means when a function return something its work is over 
+//so it goes out of the memory ans so on and at the end everything will go out of the stack we call it call stack 
+//the function comes at last will go out first ,its in reverse order
