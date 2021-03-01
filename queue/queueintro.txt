@@ -1,0 +1,30 @@
+queue:
+
+firt come first serve(FCFS)
+FIFO
+abstract data type(specific order)
+in stack entry and exit point were same
+but in queue entry and exit are two different points
+
+operation:
+
+insert:
+push()
+
+access:
+front()
+
+delete:
+pop()
+
+size():
+
+isempty():
+
+queue implementation:
+-->using array
+-->(convert into dynamic to remove size constraints)
+-->using linklist
+-->in built queue
+
+

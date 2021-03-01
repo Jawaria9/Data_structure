@@ -1,0 +1,34 @@
+insert:
+push()
+
+delete:
+pop()
+
+access:
+only top most element
+top()
+(nextindex-1 is the top element)
+
+size():
+value of next index
+returns no of element present in stack
+
+isempty():
+T/F
+
+Stack implementation:
+
+
+
+
+
+
+last in first out(LIFO)
+->array
+->linklist
+
+
+dynamic stack:
+to remove size constraint problem
+
+

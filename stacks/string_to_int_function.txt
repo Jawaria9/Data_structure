@@ -1,0 +1,5 @@
+atoi(s)
+but atoi take c style string 
+//s is string
+To convet string to c style string:
+s.c_str()
