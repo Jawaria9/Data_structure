@@ -3,7 +3,7 @@
 
 <br />
 <p align="center">
-    <img src="https://mir-s3-cdn-cf.behance.net/projects/404/7396a070434335.Y3JvcCw4NTAsNjY0LDE5NywyMQ.png" alt="Logo" width="800" height="400">
+    <img src="http://nu.edu.pk/Content/images/NU-logo.jpg" alt="Logo" width="800" height="400">
   </a>
 </p>
 
